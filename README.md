@@ -75,5 +75,24 @@ Information Propagation Networks in a Social Media Environment</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(34).pdf" style="text-decoration:none;">Fact-checking effect on viral hoaxes:
 A model of misinformation spread in social networks</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(35).pdf" style="text-decoration:none;">The Spread of Misinformation in Social Media</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(36).pdf" style="text-decoration:none;">Fake News and Cyber Propaganda: A Study of Manipulation and Abuses on Social Media</a></li> 
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(37).pdf" style="text-decoration:none;">Trends in the Diffusion of Misinformation on Social Media</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(38).pdf" style="text-decoration:none;">The Fake News Game: Actively Inoculating Against the Risk of Misinformation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(39).pdf" style="text-decoration:none;">Misinformation in Social Media: Definition, Manipulation, and Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(40).pdf" style="text-decoration:none;">Seeing Through Misinformation:
+A Framework for Identifying Fake Online News</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(41).pdf" style="text-decoration:none;">A Survey of Fake News:
+Fundamental Theories, Detection Methods, and Opportunities</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(42).pdf" style="text-decoration:none;">Fighting Fake News:
+Workshop Report</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(43).pdf" style="text-decoration:none;">On Misinformation Containment in
+Online Social Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(44).pdf" style="text-decoration:none;">A Structured Response to Misinformation: Defining and Annotating Credibility Indicators in News Articles</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Misinformation-Papers/blob/master/fa(45).pdf" style="text-decoration:none;">Real Solutions for Fake News?
+Measuring the Effectiveness of General Warnings and Fact-Check Tags in Reducing Belief in False Stories on Social Media</a></li>  
+   
   </ul>
